@@ -1,7 +1,7 @@
 # My portfolio website using vue.js 
 
 This is my personal portfolio website change to work with vue.
-> the javascript added works with normal HTML/CSS but with use there are no javascript functions
+> the javascript added works with normal HTML/CSS but with vue there are no javascript functions on the site
 
 ## Recommended IDE Setup
 
